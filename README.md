@@ -4,6 +4,7 @@ Ejecuta el archivo `main.py` con Python 3:
 
 ```bash
 python main.py
+```
 
 ## Funcionamiento
 
